@@ -8,7 +8,7 @@ Berikut ini adalah dokumentasi penggunaan Voice Generator untuk web client
 ## Quickstart
 1. Include script pada halaman anda
     ```sh
-    <script src='api_url/static/js/VGEN.js'></script>
+    <script src='vgen-teman.pusri.co.id/static/js/VGEN.js'></script>
     ```
 2. Panggil fungsi VGENplay dengan parameter (command, token, place)
     ```sh
