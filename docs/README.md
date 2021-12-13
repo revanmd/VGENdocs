@@ -8,7 +8,7 @@ Berikut ini adalah dokumentasi penggunaan Voice Generator untuk web client
 ## Quickstart
 1. Include script pada halaman anda
     ```sh
-    <script src='http://10.10.2.65:5000/static/js/VGEN.js'></script>
+    <script src='https://voice-teman.pusri.co.id/static/js/VGEN.js'></script>
     ```
 2. Panggil fungsi VGENplay dengan parameter (command, token, place)
     ```sh
@@ -19,7 +19,7 @@ Berikut ini adalah dokumentasi penggunaan Voice Generator untuk web client
 1. Command
     - panggilan
 2. Token
-    - (any-string)
+    - (any-string) 6-character
 3. Place
     - 1b
     - 19b
@@ -27,4 +27,8 @@ Berikut ini adalah dokumentasi penggunaan Voice Generator untuk web client
     - timbangan
     - parkir
     - gudang
-
+    - gudangf
+    - gudangbs2
+    - gudangbs34
+    - npk1
+    - npk2
